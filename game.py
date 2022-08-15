@@ -196,7 +196,7 @@ def game():
 
         elif choice == 9:
             luck = random.randint(1,2)
-            luck = random.randint(1,2)
+            luck1 = random.randint(1,2)
             if luck == luck1:
                 time.sleep(1)
                 print("\nYou bought all the food in the world and supplied everyone equal amount of healthy, high quality food. That's SO NICE of YOU!!")
